@@ -47,6 +47,7 @@
     }
   },
   "dependencies": {
+    "electron-compile": "^6.4.4",
     "@ffmpeg-installer/ffmpeg": "^1.0.20",
     "electron-squirrel-startup": "^1.0.0",
     "fluent-ffmpeg": "^2.1.2"
